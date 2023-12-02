@@ -15,7 +15,7 @@ This is the network architecture we've been working on for setting up pfSense.
 
 
 
-![PRESENTATION  PfSense pptx (1)](https://github.com/othmanetaybi/PFE-PfSense-16-11-2022-/assets/82034036/7df095ab-285f-4631-9565-9499ac4c2508)
+![PRESENTATION  PfSense pptx (2)](https://github.com/othmanetaybi/PFE-PfSense-16-11-2022-/assets/82034036/96b859dd-7102-402c-b0ab-1d32eb1a5b25)
 
 
 ###
