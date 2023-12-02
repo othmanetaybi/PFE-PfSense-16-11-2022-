@@ -11,9 +11,11 @@
 ![PRESENTATION  PfSense pptx](https://github.com/othmanetaybi/PFE-PfSense-16-11-2022-/assets/82034036/94d48e3c-17e2-4b43-a77e-1293b9033fd4)
 
 
+This is the network architecture we've been working on for setting up pfSense.
 
-<div align="center">
-  <img height="200" src="https://user.oc-static.com/upload/2018/07/08/15310395409983_GNS3%20firewall.PNG"/>
-</div>
+
+
+![PRESENTATION  PfSense pptx (1)](https://github.com/othmanetaybi/PFE-PfSense-16-11-2022-/assets/82034036/7df095ab-285f-4631-9565-9499ac4c2508)
+
 
 ###
